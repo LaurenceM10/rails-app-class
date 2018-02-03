@@ -18,5 +18,5 @@
 //= require_tree .
 
 $(document).ready(function () {
-  $('h1').css({"background": "red"});
+  $('h1').css({"color": "white"});
 });
